@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='loststarventures'
+rootProject.name='com.loststarventures'
