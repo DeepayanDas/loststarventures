@@ -1,4 +1,4 @@
-package com.loststarventures.loststars.loststarventures
+package com.loststarventures.loststars
 
 import org.junit.Test
 
